@@ -109,12 +109,15 @@ AIを使って、エンジニアやビジネスパーソンの「面倒」を減
 
 ---
 
-## 📫 Connect
+##  📫 Connect
 
-- 🐦 X：Coming Soon
-- 📝 note：Coming Soon
-- 🌐 Portfolio：Coming Soon
+🐦 X
+https://x.com/kazu_____tech
 
----
+📝 note
+https://note.com/【あなたのNoteID】
+
+💻 GitHub
+https://github.com/Kazu-tech-dev
 
 ⭐ **Thanks for visiting my profile!**
