@@ -1,4 +1,4 @@
-#👋 Hi, I'm Kazu
+## 👋 Hi, I'm Kazu
 
 ## AI × 業務効率化
 
