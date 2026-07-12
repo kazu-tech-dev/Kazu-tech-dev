@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/header.png" width="100%">
-</p>
-
 #👋 Hi, I'm Kazu
 
 ## AI × 業務効率化
